@@ -1,0 +1,14 @@
+{
+  "honeypots": 0,
+  "nontech": 0,
+  "baseline_nontech": 6,
+  "in_band": 82,
+  "median_yoe": 6.4,
+  "mean_yoe": 6.537,
+  "india": 99,
+  "domain": 99,
+  "active": 100,
+  "mh3": 69,
+  "responsive": 100,
+  "n": 100
+}
