@@ -9,8 +9,6 @@
 #   full project:        pip install -r requirements.txt
 
 numpy==2.1.3            # all vector math + the ranking step (only hard runtime dep)
-model2vec==0.8.2        # static distilled embeddings (potion-retrieval-32M) — offline precompute & demo
-streamlit==1.58.0       # interactive demo + hosted sandbox
-pillow==11.3.0          # deck rendering
-python-pptx==1.0.2      # editable .pptx export
+model2vec==0.8.2        # static distilled embeddings (potion-retrieval-32M) — precompute & live demo
+streamlit==1.58.0       # interactive demo + hosted sandbox (Streamlit Community Cloud)
 pytest==9.0.3           # archetype / format / reasoning test suite
