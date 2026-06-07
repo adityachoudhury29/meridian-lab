@@ -1,0 +1,25 @@
+# venv & caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.cache/
+
+# scratch
+/tmp/
+*.log
+submission_structural.csv
+precompute.log
+
+# the candidate pool is large and provided by the organisers — not committed.
+# point rank.py / precompute.py at your local copy via --candidates.
+candidates.jsonl
+candidates.jsonl.gz
+data/
+
+# pre-computed embedding cache (~56 MB) — regenerate in ~15s with precompute.py
+artifacts/
+
+# the slide deck is submitted via the portal, not tracked in the code repo
+ppt/
