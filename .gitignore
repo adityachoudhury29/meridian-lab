@@ -23,3 +23,6 @@ artifacts/
 
 # the slide deck is submitted via the portal, not tracked in the code repo
 ppt/
+
+# kept local — contains personal contact details + portal metadata
+submission_metadata.yaml
